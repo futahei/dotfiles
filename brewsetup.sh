@@ -10,11 +10,13 @@ xcode-select --install
 brew update
 brew install cask
 
-# install cli apps
+# install apps
 brew install zsh
 brew install gh
+brew install nvm
 
 # install gui apps
+
 brew install iterm2
 brew install visual-studio-code
 brew install google-chrome
