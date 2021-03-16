@@ -1,0 +1,5 @@
+[core]
+	excludesfile = ~/.gitignore_global
+[user]
+	name = Kohei Futatsuka
+	email = futahei1108@icloud.com
