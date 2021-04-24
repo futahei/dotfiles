@@ -14,9 +14,9 @@ brew install cask
 brew install zsh
 brew install gh
 brew install nvm
+brew install docker
 
 # install gui apps
-
 brew install iterm2
 brew install visual-studio-code
 brew install google-chrome
